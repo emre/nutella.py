@@ -17,4 +17,4 @@ $ (sudo) install git+https://github.com/emre/nutella.py.git
 $ nutella
 ```
 
-*(speacial thanks goes @aydantasdemir for this killer idea.)*
+*(speacial thanks goes to <a href="http://github.com/aydantasdemir">@aydantasdemir</a> for this killer idea.)*
