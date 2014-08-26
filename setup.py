@@ -11,4 +11,7 @@ setup(
             'nutella = nutella:main',
         ],
     },
+    install_requires=[
+        'requests',
+    ],
 )
