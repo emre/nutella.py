@@ -9,7 +9,7 @@ nutella price ticker on your command line.
 ### installation
 
 ```bash
-$ (sudo) install git+https://github.com/emre/nutella.py.git
+$ (sudo) pip install git+https://github.com/emre/nutella.py.git
 ```
 
 ### running
