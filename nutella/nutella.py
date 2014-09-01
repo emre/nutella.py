@@ -4,6 +4,7 @@ import requests
 import re
 
 NUTELLAS = {
+    " 39 GR": "http://www.sanalmarket.com.tr/kweb/prview/47371036-30489-nutella-go-39-g/",
     "400 GR": "http://www.sanalmarket.com.tr/kweb/prview/5231368-30489-nutella-400-gr/",
     "750 GR": "http://www.sanalmarket.com.tr/kweb/prview/17671377-30489-nutella-750-gr/",
 }
